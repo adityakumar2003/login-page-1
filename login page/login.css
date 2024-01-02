@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(126, 187, 94);
+}
+.login{
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 15%;
+    padding: 10px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+.login .mybox{
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.185);
+}
+.login .btn{
+     width: 95%;
+     padding: 10px;
+     margin: 10px;
+     font-size: 15px;
+     margin-bottom: 10px;
+     background-color: rgb(82, 175, 80);
+     border-radius: 10px;
+}
+.login .mylink{
+   font-weight: 300;
+   text-decoration: none;
+   color:rgb(82, 175, 80);
+   
+}
+.btn:hover{
+    background-color: rgb(207, 235, 135);
+}
